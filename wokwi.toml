@@ -1,0 +1,9 @@
+[simulation]
+# Path to the Wokwi diagram.json file
+diagram = "wokwi/diagram.json"
+
+# Automatically restart the simulation when diagram.json changes
+auto-reload = true
+
+# Port for the Wokwi simulation server
+port = 9012

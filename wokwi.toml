@@ -1,6 +1,6 @@
 [simulation]
 # Path to the Wokwi diagram.json file
-diagram = "wokwi/diagram.json"
+diagram = "diagram.json"
 
 # Automatically restart the simulation when diagram.json changes
 auto-reload = true
